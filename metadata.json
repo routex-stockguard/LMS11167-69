@@ -1,0 +1,6 @@
+{
+  "name": "RouteX Return Management System",
+  "description": "ระบบบริหารจัดการการคืนสินค้า ตรวจรับคลังสินค้า และตรวจสอบสภาพสินค้า RouteX (LSM11167)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
